@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Welcome to the public key und session key calculator
+# # Welcome to the Diffie-Hellmann public key und session key calculator
 # ## This calculator works  with the square and multiply algorithm (not optimized) 
 # ### Input:
 # #### prime number "p"
